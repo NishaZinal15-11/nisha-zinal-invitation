@@ -1,0 +1,6 @@
+Upload your own photos into this folder and name them exactly:
+cover.jpg
+memory-1.jpg
+memory-2.jpg
+
+These photos will be visible publicly on your invitation website.
